@@ -1,0 +1,74 @@
+{
+    "1.0": {
+        "longitude": 126.532371,
+        "latitude": 33.500116,
+        "new_longitude": 0.4949906739492178,
+        "new_latitude": 0.8727418201812895
+    },
+    "2.0": {
+        "longitude": 126.500055,
+        "latitude": 33.48863,
+        "new_longitude": 0.4517819776575891,
+        "new_latitude": 0.8359374023694528
+    },
+    "3.0": {
+        "longitude": 126.64412,
+        "latitude": 33.539831,
+        "new_longitude": 0.6444067094082868,
+        "new_latitude": 1.0
+    },
+    "4.0": {
+        "longitude": 126.268778,
+        "latitude": 33.409109,
+        "new_longitude": 0.14254885312973897,
+        "new_latitude": 0.5811294527946416
+    },
+    "5.0": {
+        "longitude": 126.57045614,
+        "latitude": 33.51733013,
+        "new_longitude": 0.5459131039370106,
+        "new_latitude": 0.9279007991807333
+    },
+    "6.0": {
+        "longitude": 126.56506,
+        "latitude": 33.246244,
+        "new_longitude": 0.5386980966834187,
+        "new_latitude": 0.059263571989546904
+    },
+    "7.0": {
+        "longitude": 126.91007,
+        "latitude": 33.460229,
+        "new_longitude": 1.0,
+        "new_latitude": 0.7449325033380632
+    },
+    "8.0": {
+        "longitude": 126.715115,
+        "latitude": 33.2843415,
+        "new_longitude": 0.7393318670151814,
+        "new_latitude": 0.1813388207782367
+    },
+    "9.0": {
+        "longitude": 126.489923,
+        "latitude": 33.2508702,
+        "new_longitude": 0.4382348025484646,
+        "new_latitude": 0.07408723537812989
+    },
+    "10.0": {
+        "longitude": 126.2473589,
+        "latitude": 33.2277489,
+        "new_longitude": 0.11391005542148491,
+        "new_latitude": 0.0
+    },
+    "11.0": {
+        "longitude": 126.4746922,
+        "latitude": 33.4838002,
+        "new_longitude": 0.4178701840474446,
+        "new_latitude": 0.8204613465495072
+    },
+    "12.0": {
+        "longitude": 126.162165,
+        "latitude": 33.292471,
+        "new_longitude": 0.0,
+        "new_latitude": 0.20738805589938636
+    }
+}

@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "2D"
+version = "0.1.0"
+description = ""
+authors = ["ccw7463 <changwoo7463@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+opencv-python = "^4.10.0.84"
+ipykernel = "^6.29.5"
+scipy = "^1.14.1"
+pandas = "^2.2.3"
+tqdm = "^4.66.6"
+ml-collections = "^0.1.1"
+matplotlib = "^3.9.2"
+torch = "^2.5.1"
+torchvision = "^0.20.1"
+pytz = "^2024.2"
+requests = "^2.32.3"
+scikit-learn = "^1.5.2"
+flask = "^3.0.3"
+flask-restx = "^1.3.0"
+pymongo = "^4.10.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
