@@ -147,5 +147,4 @@ apt-get install -y libglib2.0-0
         - pm_total_level : pm 수치 정도
      
 ## Funding
----
 This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (No.2022-0-00431, Development of open service platform and creation technology of federated intelligent digital twin, 100%).
